@@ -1,1 +1,11 @@
 # gpc
+
+GPC JDID X GOJEK GOPAY GPC JDID X GOJEK GOPAY GPC JDID X GOJEK GOPAY GPC JDID X GOJEK GOPAY
+
+SIAPKAN DULU SALDO GOPAY DI AKUN GOJEK LOE YA, BWAT BELI DISKON GPC DI JD.ID DENGAN BOT.
+
+PAKE HP? PAKAI TERMUX
+- TULIS "pkg install php git"
+- TULIS "git clone https://github.com/agussalimteam/gpc"
+- TULIS "cd gpc"
+- TULIS "php gpc.php"
